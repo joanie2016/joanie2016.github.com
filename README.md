@@ -13,6 +13,6 @@
            <hr/>
            <h2>Heading</h2>
            <p>This is a simple paragraph</p>
-           <p>Copyright 2016 by joanie.All rights reserved.</p>
+           <p><small>Copyright 2016 by joanie.All rights reserved.</small></p>
 </body>
 </html>
