@@ -1,5 +1,4 @@
 # joanie2016.github.com
-<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
